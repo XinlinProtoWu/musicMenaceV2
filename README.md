@@ -4,6 +4,11 @@ Music application with a built-in login system, capable of importing local audio
 
 ---
 
+## ⚠️ Disclaimer
+
+This application is intended **for personal use only**.  
+Please respect copyright laws and **do not use this software to acquire music illegally or for free**.  
+Make sure you have the rights or permission to download, import, or use any audio files with this application.
 ## 🛠️ How to Use This Application
 
 ### 1. 🎹 Download the Dependencies
