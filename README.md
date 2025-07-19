@@ -26,13 +26,14 @@ Music application with a built-in login system, capable of importing local audio
 
 ### 2. 🗝️ Run the Login Program
 
-- Run [`login.java`](./src/login.java) and register an account using your username and password.  
+- Run [`login.java`](./src/login.java) and register an account using your username and password.
+  ![Login Screen](./f00f6657-74f0-4a44-aac8-e5aa8a390d93.png)
 - **Note:** Password must be longer than 6 characters.
 
 ---
 
 ### 3. 📂 Import Audio Files
-
+![User Screen](./03fd14a9-eb83-4383-be75-7a787bfafca6.png)
 - Click **Import** to add your local audio files.  
 - To extract audio from YouTube, paste the video link into the box on the bottom left.  
 
